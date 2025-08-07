@@ -1,2 +1,2 @@
-julien@ubuntu:/tmp/0x03$ . ./5-local_variables
-BASH=/bin/bash
+#!/bin/bash
+set; env
